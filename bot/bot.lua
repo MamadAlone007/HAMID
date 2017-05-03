@@ -90,23 +90,22 @@ function create_config( )
 	"lock-fosh"
 	
  },
-    sudo_users = {159815945, 260012127},
+    sudo_users = {159815945,341200142},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[》permag.ir v3
 
 🔰Our channel :
-》@permag_bots《
-
+https://t.me/ANTI_SPAM_SUPPORT
 🔰Our channel2 :
-》@permag_ir《
+https://t.me/ANTI_SPAM_SUPPORT
 
-🔰Our channel3 :
-》@permag《
+🔰Our channel3 : 
+https://t.me/ANTI_SPAM_SUPPORT
 
 🔰Our website :
-》http://permag.ir
+》https://t.me/ANTI_SPAM_SUPPORT
 ]],
   }
   serialize_to_file(config, './data/config.lua')
@@ -894,7 +893,7 @@ elseif msg.content_.ID == "MessageGame" then
   end
 
 end
--- http://permag.ir
--- @permag_ir
--- @permag_bots
--- @permag
+-- https://t.me/ANTI_SPAM_SUPPORT
+-- https://t.me/ANTI_SPAM_SUPPORT
+-- https://t.me/ANTI_SPAM_SUPPORT
+-- https://t.me/ANTI_SPAM_SUPPORT
